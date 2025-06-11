@@ -34,8 +34,9 @@ Let Genie give your brain a break.
 
 ---
 
-##  Demo
 
+##  Demo
+```txt
 
 ================================
          Welcome to
@@ -62,8 +63,9 @@ Do you want to make another decision? (y/n): n
 
 Thanks for using DecisionGenie! Stay decisive !
 
-
+```
 ---
+
 
 ## ✨ Why DecisionGenie?
 
@@ -74,6 +76,7 @@ It breaks decision paralysis with randomness that still respects your priorities
 
 Because sometimes the best way to move forward... is to just move.
 
+---
 
 ## 📁 Project Link
 
